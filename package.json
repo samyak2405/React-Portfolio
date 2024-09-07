@@ -2,7 +2,7 @@
   "name": "React-Portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://samyak2405.github.io/React-Portfolio",
+  "homepage": "https://samyak2405.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
